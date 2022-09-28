@@ -32,6 +32,13 @@
     padding: 40px;
 }
 
+#showcase-container h2 {
+    font-size: 3.3rem;
+    margin-bottom: 1px;
+    margin-top: 80px;
+
+}
+
 /* Clients */
 #clients-container {
     grid-template-columns: repeat(2, 1fr);
@@ -69,6 +76,7 @@
 .testimonial {
     flex-direction: column;
     text-align: center;
+    width: 100%;
 }
 
 /* Gallery */
