@@ -49,8 +49,8 @@ a {
     padding: 15px 60px;
     font-size: 1.1rem;
     text-transform: uppercase;
-    background: #000000;
-    color: #eee;
+    background: #f7c40e;
+    color: #000000;
     border-radius: 5px;
     transition: background 500ms ease;
 }
@@ -125,13 +125,15 @@ a {
     /*background:linear-gradient(to right bottom, #413b2f, #433d32, #454035, #474238, #49453b, #58513e, #675d41, #766944, #968347, #b79d48, #dab948, #fdd547) no-repeat center center/cover;*/
     /*background: linear-gradient(to bottom, #413b2f, #4b4434, #564d38, #60563d, #6b5f42, #7a6b45, #8a7747, #9a844a, #b2974b, #cbab4a, #e4c049, #fdd547) no-repeat center center/cover;*/
     /*background: linear-gradient(to bottom, #4c483f, #544e41, #5d5543, #655b44, #6e6246, #7c6d48, #8b7849, #9a844a, #b2974b, #cbab4a, #e4c049, #fdd547) no-repeat center center/cover;*/
-    background: linear-gradient(to bottom, #0f0b00, #201c0e, #312a16, #43391e, #564925, #6a592b, #7f6931, #947a37, #ae903c, #c8a640, #e2bd44, #fdd547);
-    opacity: 100% no-repeat center center/cover;
+    /*background: linear-gradient(to bottom, #0f0b00, #201c0e, #312a16, #43391e, #564925, #6a592b, #7f6931, #947a37, #ae903c, #c8a640, #e2bd44, #fdd547);
+    opacity: 100% no-repeat center center/cover;*/
+    /*background: linear-gradient(to bottom, #4c483f, #4c483f, #6e654d, #8d7e4f, #d0b65b, #ffdf62) no-repeat center center/cover;*/
+    background: #4c483f;
 }
 
 #showcase-container {
     text-align: center;
-}
+} 
 
 #showcase-container h2 {
     font-size: 4.3rem;
